@@ -1,4 +1,4 @@
-# [SenCharts.js](https://sencharts.com/)
+# [SenCharts](https://sencharts.com/)
 A JavaScript charting library for interactive and customizable charts with zooming and panning features.
 
 ## Coverage

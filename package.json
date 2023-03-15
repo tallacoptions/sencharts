@@ -1,12 +1,13 @@
 {
   "name": "@tallacoptions/sencharts",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "A JavaScript charting library for interactive and customizable charts with zooming and panning features.",
+  "files": ["sencharts.min.js", "README.md"],
   "repository": {
     "type": "git",
     "url": "https://github.com/tallacoptions/sencharts.git"	
   },
-  "main": "sencharts.js",
+  "main": "sencharts.min.js",
   "author": "Mamadou NDAO mamadou.ndao@tallacoptions.com",
   "license": "ISC",
   "bugs": {

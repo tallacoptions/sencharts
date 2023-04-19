@@ -9,7 +9,7 @@
   },
   "main": "sencharts.min.js",
   "author": "Mamadou NDAO mamadou.ndao@tallacoptions.com",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tallacoptions/sencharts/issues"
   },

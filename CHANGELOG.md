@@ -1,3 +1,14 @@
+## [1.2.0] - 2023-06-14
+
+### Added
+
+- Bar chart.
+- Global chart options.
+
+### Fixed
+
+- Minor bugs.
+
 ## [1.1.0] - 2023-04-28
 
 ### Added

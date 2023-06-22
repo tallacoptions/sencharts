@@ -12,6 +12,7 @@
     "url": "https://github.com/tallacoptions/sencharts.git"
   },
   "main": "sencharts.min.js",
+  "keywords": [ "chart", "candlestick", "stock", "svg", "zoom", "pan" ],
   "author": "Mamadou NDAO mamadou.ndao@tallacoptions.com",
   "license": "MIT",
   "bugs": {

@@ -4,6 +4,7 @@ A JavaScript charting library for interactive and customizable charts with zoomi
 ## Coverage
 - [Line Charts](https://sencharts.com/docs/v1/examples/line_chart/index)
 - [Stock Charts](https://sencharts.com/docs/v1/examples/stock_chart/index)
+- [Bar Charts](https://sencharts.com/docs/v1/examples/bar_chart/index)
 
 ## Features
 - Zoom

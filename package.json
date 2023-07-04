@@ -1,6 +1,6 @@
 {
   "name": "@tallacoptions/sencharts",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "A JavaScript charting library for interactive and customizable charts with zooming and panning features.",
   "files": [
     "sencharts.min.js",
